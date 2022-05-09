@@ -5,7 +5,7 @@
     -   HTML
     -   CSS
     -   JS
-    -   Bash
+    -   Bash/Shell
 -   📫 How to reach me:
     -   [LinkedIn](https://www.linkedin.com/in/benjamin-alexander-rae/)
     -   [Twitter](https://twitter.com/benjaminrae93)
