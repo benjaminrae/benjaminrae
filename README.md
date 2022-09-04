@@ -1,5 +1,7 @@
 #  👋 Hi, I’m Ben
 
+[![wakatime](https://wakatime.com/badge/user/6890f6ce-e891-46bb-b605-5fc5dcd096d6.svg)](https://wakatime.com/@6890f6ce-e891-46bb-b605-5fc5dcd096d6)
+
 ##   👀 I’m interested in:
     - Becoming a full-stack developer
     
