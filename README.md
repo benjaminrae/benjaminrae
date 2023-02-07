@@ -1,7 +1,5 @@
 #  👋 Hi, I’m Ben
 
-[![wakatime](https://wakatime.com/badge/user/6890f6ce-e891-46bb-b605-5fc5dcd096d6.svg)](https://wakatime.com/@6890f6ce-e891-46bb-b605-5fc5dcd096d6)
-[![codewars](https://www.codewars.com/users/benjaminrae/badges/small)](https://www.codewars.com/users/benjaminrae)
 
 ##   👀 I’m interested in:
     - Full Stack Development | MERN Stack ⚛️
