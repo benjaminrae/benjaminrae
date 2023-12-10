@@ -7,7 +7,9 @@
     <br>
 [Twitter](https://twitter.com/benjaminrae93)
     <br>
-[benjaminrae93@gmail.com](mailto:benjaminrae93@gmail.com)
+[Email](mailto:benjaminrae93@gmail.com)
+    <br>
+[Blog](https://benjaminrae.dev)
 
 ## ⚒️ My stack
 
